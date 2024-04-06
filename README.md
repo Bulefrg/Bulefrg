@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web Dev(Backend)
 - 📫 How to reach me:bulef43.py --- discord 
 - 😄 Pronouns: Ukraine
-- ⚡ Fun fact: #I try really hard
+- ⚡ Fun fact: I try really hard
 
 <!---
 Bulefrg/Bulefrg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
